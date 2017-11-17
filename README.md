@@ -18,6 +18,7 @@ The dataset is a .csv file with three columns:
 3. Label that states whether this point if for train or test
 
 The dataset consists of 35887 images of human faces with different emotions: neutral, sad, happy, disgust, fear, angry and surprise.
+The link for dataset: https://drive.google.com/open?id=11FGMPAcbjDdT7edh4ocsHl9cjWU_rg-g
 
 ## Training
 The training was performed on NVidia GeForce 740M GPU and took 102 seconds per epoch on average. All 20 epochs of training took near 35 minutes. The training accuracy was 95%. 
